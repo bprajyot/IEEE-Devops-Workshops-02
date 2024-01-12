@@ -1,4 +1,4 @@
-main: This is github action
+name: This is GitHub action
 run-name: this is the run name
 on: [push]
 jobs:
