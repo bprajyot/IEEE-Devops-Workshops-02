@@ -2,7 +2,7 @@ main: This is github action
 run-name: this is the run name
 on: [push]
 jobs:
-  Echos:
+  Echo:
     runs-on: ubuntu-latest
     steps:
       name: echo hello
